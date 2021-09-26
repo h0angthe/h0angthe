@@ -1,0 +1,32 @@
+.testcolor {
+    color: rgb(235, 61, 90) !important;
+}
+.nb{
+    float:right;
+}
+.bgimage{
+    background-image: url(images/bg.jpg);
+    background-position: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.btun{
+    text-align: center;
+}
+.btun button{
+    background-color: rgb(235, 61, 90);
+    color: white;
+}
+.foodmenu{
+    background-color: whitesmoke;
+}
+.imgmenu img{
+    border-radius: 20%;
+   padding: 10%;
+  
+}
+.bttitle button{
+   background-color: rgb(235, 61, 90);
+   color: white;
+   border-radius: 10%;
+}

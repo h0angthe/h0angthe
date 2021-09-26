@@ -1,0 +1,15 @@
+.nb{
+    float:right;
+}
+.exfood{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.imgexfood img{
+    border-radius: 5%;
+    width: 80%;
+}
+.imgexfood h2{
+    transform: translate(0,-250%);
+    color: white;
+}

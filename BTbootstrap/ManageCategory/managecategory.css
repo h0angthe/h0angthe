@@ -1,0 +1,10 @@
+.tb img{
+    width: 30%;
+    }
+.btnupdate{
+    background-color: rgb(14, 206, 88);
+}
+.btndelete{
+     background-color: rgb(243, 70, 99);
+     color: white;
+}
